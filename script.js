@@ -51,8 +51,8 @@ const soundButton = document.getElementById("soundToggle");
 windAudio.loop = true;
 birdsAudio.loop = true;
 
-windAudio.volume = 0.50;
-birdsAudio.volume = 0.35;
+windAudio.volume = 0.70;
+birdsAudio.volume = 0.85;
 
 let ambienceStarted = false;
 let ambienceMuted = false;
